@@ -1,0 +1,17 @@
+/* 
+we can use css with html in 3 different ways:
+1. inline css
+2. internal css
+3. external css (we add a new css in our repo and indicate that in our html file)
+            eg: <link rel="stylesheet" href="styles.css"> (styles.css is the fine name in which css code is writen)
+            <!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <title>website</title>
+                <link rel="stylesheet" href="styles.css">
+            </head>
+            <body>
+                <h1>hello</h1>
+            </body>
+            </html>
+*/
